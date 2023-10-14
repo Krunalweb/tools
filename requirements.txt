@@ -1,5 +1,4 @@
 colorama
-threading
 aiohttp
 asyncio
 subprocess

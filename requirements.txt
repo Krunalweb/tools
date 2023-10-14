@@ -1,0 +1,7 @@
+colorama
+threading
+aiohttp
+asyncio
+subprocess
+multiprocess
+pystyle

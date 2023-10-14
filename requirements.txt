@@ -1,6 +1,5 @@
 colorama
 aiohttp
 asyncio
-subprocess
 multiprocess
 pystyle
